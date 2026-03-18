@@ -9,13 +9,6 @@ The raw dataset was cleaned using Python before being used for SQL analysis and 
 
 ## Folder Structure
 
-data/
-├── raw
-│   texas_county_expenditures_raw.csv
-│
-└── cleaned
-    texas_county_expenditures_cleaned.csv
-
 ### raw
 Contains the original dataset before any preprocessing or cleaning.
 
