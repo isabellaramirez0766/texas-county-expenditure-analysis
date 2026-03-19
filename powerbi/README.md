@@ -22,7 +22,7 @@ This file can be opened using **Power BI Desktop**.
 
 ## Dashboard Preview
 
-![texas-county-expenditure-analysis](powerbi/dashboard_preview.png)
+![texas-county-expenditure-analysis](dashboard_preview.png)
 
 ---
 
