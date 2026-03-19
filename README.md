@@ -31,7 +31,7 @@ Power BI Dashboard
 
 ## Dashboard Preview
 
-![Texas County Expenditure Dashboard](powerbi/dashboard_preview.png)
+![texas-county-expenditure-analysis](powerbi/dashboard_preview.png)
 
 
 The Power BI dashboard allows users to explore:
